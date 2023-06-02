@@ -1,3 +1,5 @@
+//solution to isogram in javascript on exercism.io
+
 function isIsogram(word) {
  if (isIsogramBool(word)) {
    console.log("yes");
